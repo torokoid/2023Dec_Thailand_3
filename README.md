@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2023/12/30 、タイ旅行 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023/12/31 、タイ旅行 !!!</marquee></span></h1>
 
 <div style="background-color:rgb(255,255,255,0.5);">
 <p class="topicpath"><a href="https://torokoid.github.io/2023Dec_Thailand/">Thailand</a>><a href="https://torokoid.github.io/2023Dec_Thailand_2/">Thailand_2</a>>Thailand_3</p></div>
