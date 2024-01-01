@@ -178,10 +178,13 @@ p.note { display: none; }
 
 <br><br>
 <p>以下LINE共有された画集</p>
-
+<p>12月31日、パタヤからバンコクへの帰路にあるおしゃれなカフェ</p>
 <a href="20240101_016.JPG" data-lightbox="abc"><img src="20240101_016.JPG" alt="サンプル画像" width="900" /></a>
+<p>12月30日、パタヤの夕陽が綺麗なレストラン</p>
 <a href="20240101_017.JPG" data-lightbox="abc"><img src="20240101_017.JPG" alt="サンプル画像" width="900" /></a>
+<p>12月29日、空港近くのホテルのランチ</p>
 <a href="20240101_018.JPG" data-lightbox="abc"><img src="20240101_018.JPG" alt="サンプル画像" width="900" /></a>
+<p>12月29日、地下鉄でチャイナタウンに行って夕食</p>
 <a href="20240101_019.JPG" data-lightbox="abc"><img src="20240101_019.JPG" alt="サンプル画像" width="900" /></a>
 
 
