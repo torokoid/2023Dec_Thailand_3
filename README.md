@@ -177,7 +177,12 @@ p.note { display: none; }
 <a href="20231231_041.JPG" data-lightbox="abc"><img src="20231231_041.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<p>以下動画集</p>
+<p>以下LINE共有された画集</p>
+
+<a href="20240101_016.JPG" data-lightbox="abc"><img src="20240101_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240101_017.JPG" data-lightbox="abc"><img src="20240101_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240101_018.JPG" data-lightbox="abc"><img src="20240101_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240101_019.JPG" data-lightbox="abc"><img src="20240101_019.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br>
